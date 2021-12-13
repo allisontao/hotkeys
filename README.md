@@ -1,4 +1,4 @@
-# Shortcuts & Commands 
+# Hotkeys & Commands 
 
 ## Terminal (shell)
 | Command      | Description |
